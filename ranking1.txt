@@ -1,0 +1,12 @@
+Tomasz;100.32;
+Mateusz;123.54;
+Pawel;1324.23;
+Adrian;1542.93;
+Dominik;134.23;
+Filip;110.40;
+Marian;68.93;
+Mamaama;57.06;
+Krann;40.73;
+Kacper;30.70;
+48380;48.52;
+Kacper;21.90;

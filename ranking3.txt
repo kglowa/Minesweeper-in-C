@@ -1,0 +1,8 @@
+Gracz 1;113.32;
+Gracz 5;123.55;
+Gracz 2;230.10;
+Gracz 3;115.15;
+Gracz 5;110.93;
+Gracz 1;132.42;
+Gracz 6;211.25;
+Gracz 3;114.83;

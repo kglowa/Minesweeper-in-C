@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588350029 source:c:\users\kacper\desktop\saper projekt\main.c
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+	<time.h>
+

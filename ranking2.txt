@@ -1,0 +1,9 @@
+Gracz 1;150.30;
+Gracz 2;120.15;
+Gracz 3;200.40;
+Gracz 4;145.13;
+Gracz 5;150.94;
+Gracz 1;132.42;
+Gracz 6;210.24;
+Gracz 3;110.83;
+Adamamam;101.00;
